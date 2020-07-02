@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Abstract Spectrometer.lvclass" Type="LVClass" URL="../Abstract Spectrometer_class/Abstract Spectrometer.lvclass"/>
+		<Item Name="Simulated.lvclass" Type="LVClass" URL="../Simulated_class/Simulated.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
