@@ -10,6 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Types" Type="Folder">
+			<Item Name="Diverter Location.ctl" Type="VI" URL="../../SpectraPro-LabVIEW-Driver/Libraries/Types/Diverter Location.ctl"/>
+			<Item Name="Slit.ctl" Type="VI" URL="../Types/Slit.ctl"/>
+		</Item>
 		<Item Name="Abstract Spectrometer.lvclass" Type="LVClass" URL="../Abstract Spectrometer_class/Abstract Spectrometer.lvclass"/>
 		<Item Name="Simulated.lvclass" Type="LVClass" URL="../Simulated_class/Simulated.lvclass"/>
 		<Item Name="SpectraPro.lvclass" Type="LVClass" URL="../SpectraPro_class/SpectraPro.lvclass"/>
